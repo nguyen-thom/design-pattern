@@ -1,4 +1,4 @@
-package org.nguyen.design.pattern.behavior.command;
+package org.nguyen.design.pattern;
 
 /**
  * Hello world!
